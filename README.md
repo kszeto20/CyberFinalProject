@@ -24,3 +24,9 @@ By Lillian Tran and Kirsten Szeto
 12/14/2021
 Started presentation slides, outlining overall format and starting to shift research from our Google Docs.
 ### Kirsten Szeto
+
+12/14/2021
+
+Worked with insecurelabs.org to find new exploits in code. Was able to find a way to cause different link to show. Need to work on how to exectute it from a sample entry not direct insertion.
+
+Also want to work on other things to display. 
