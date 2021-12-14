@@ -1,5 +1,5 @@
 # CyberFinalProject
-# By Lillian Tran and Kirsten Szeto
+By Lillian Tran and Kirsten Szeto
 
 ## Project Description:
   Cross site scripting is a widely used technique to exploit vulnerabilities in websites. Using cross site scripting (XSS) the attacker is able to execute malicious javascript in the target's browser.
