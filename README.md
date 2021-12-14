@@ -21,5 +21,6 @@ By Lillian Tran and Kirsten Szeto
 ## Daily Log:
 
 ### Lillian Tran
-
+12/14/2021
+Started presentation slides, outlining overall format and starting to shift research from our Google Docs.
 ### Kirsten Szeto
