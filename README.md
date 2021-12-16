@@ -40,3 +40,12 @@ Rethought project deliverables: started working on pre-lesson Javascript guide. 
 Worked with insecurelabs.org to find new exploits in code. Was able to find a way to cause different link to show. Need to work on how to execute it from a sample entry not direct insertion.
 
 Also want to work on other things to display.
+
+
+12/15/2021
+
+Broke insecurelabs.org functionality, fixed after troubleshooting with lillian; formulated how to send user between websites.
+
+12/16/2021
+
+Worked on code snippets
