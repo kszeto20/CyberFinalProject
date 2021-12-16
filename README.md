@@ -1,4 +1,4 @@
-# CyberFinalProject
+## CyberFinalProject
 By Lillian Tran and Kirsten Szeto
 
 ## Project Description:
@@ -22,11 +22,21 @@ By Lillian Tran and Kirsten Szeto
 
 ### Lillian Tran
 12/14/2021
-Started presentation slides, outlining overall format and starting to shift research from our Google Docs.
+
+Finished up the presentation research. Started slides, outlining overall format and starting to shift information from our Google Docs.
+
+12/15/2021
+
+Brainstormed using website in redirect XSS attack to steal information. Resolved cookie issue on website troubleshooting with Kirsten.
+
+12/16/2021
+
+Rethought project deliverables: started working on pre-lesson Javascript guide. Kept working on presentation slides.
+
 ### Kirsten Szeto
 
 12/14/2021
 
-Worked with insecurelabs.org to find new exploits in code. Was able to find a way to cause different link to show. Need to work on how to exectute it from a sample entry not direct insertion.
+Worked with insecurelabs.org to find new exploits in code. Was able to find a way to cause different link to show. Need to work on how to execute it from a sample entry not direct insertion.
 
-Also want to work on other things to display. 
+Also want to work on other things to display.
