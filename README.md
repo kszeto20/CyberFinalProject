@@ -33,6 +33,11 @@ Brainstormed using website in redirect XSS attack to steal information. Resolved
 
 Rethought project deliverables: started working on pre-lesson Javascript guide. Kept working on presentation slides.
 
+
+12/17/2021
+
+Worked on the JavaScript guide; and wrote explanations to the syntax of exploits that Kirsten used. 
+
 ### Kirsten Szeto
 
 12/14/2021
