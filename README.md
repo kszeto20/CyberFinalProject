@@ -57,3 +57,7 @@ Broke insecurelabs.org functionality, fixed after troubleshooting with lillian; 
 12/16/2021
 
 Worked on code snippets
+
+12/21/2021
+
+Working on code snippets; formulating levels and lesson concept; will work on javascript tutorial next
