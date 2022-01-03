@@ -31,16 +31,28 @@ Brainstormed using website in redirect XSS attack to steal information. Resolved
 
 12/16/2021
 
-Rethought project deliverables: started working on pre-lesson Javascript guide. Kept working on presentation slides.
+Rethought project deliverables: started working on pre-lesson JavaScript guide. Kept working on presentation slides.
 
 
 12/17/2021-12/19/2021 (into the weekend)
 
-Worked on the JavaScript guide; and wrote explanations to the syntax of exploits that Kirsten used.
+Compiled list of sources for JavaScript guide; wrote explanations to the syntax of exploits that Kirsten used.
 
 12/20/2021
+
 Worked on adding prevention methods to the slides. Will add examples and look over to ensure that there are enough details/explanations.
 
+12/22/2021
+
+Added JavaScript examples to the presentation and other finishing touches, etc. on the slides.
+
+12/27/2021-12/29/2021
+
+Worked on introduction and explaining the relevant code examples for Javascript guide.
+
+1/03/2022
+
+Updated daily log with missing progress, working on expanding explanations from 12/19 of exploits we're using. 
 ### Kirsten Szeto
 
 12/14/2021
