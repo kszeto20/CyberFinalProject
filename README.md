@@ -52,7 +52,7 @@ Worked on introduction and explaining the relevant code examples for Javascript 
 
 1/03/2022
 
-Updated daily log with missing progress, working on expanding explanations from 12/19 of exploits we're using. 
+Updated daily log with missing progress, working on expanding explanations from 12/19 of exploits we're using.
 ### Kirsten Szeto
 
 12/14/2021
@@ -73,3 +73,9 @@ Worked on code snippets
 12/21/2021
 
 Working on code snippets; formulating levels and lesson concept; will work on javascript tutorial next
+
+12/22/2021
+worked on code demo
+
+01/03/2022
+Working on code demo + adding on + explanations
