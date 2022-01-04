@@ -4,3 +4,21 @@ Cause an alert
 
 Enter into search box/comment box in case of the NYCDOEBlock
 Answer: <script>alert("Hacked by Kirsten and Lillian")</script>
+
+"alert()" - can only display text
+
+Level Two:
+Display a link
+
+Display a link on your alert:
+
+Enter into search box/comment box in case of the NYCDOEBlock
+Answer: <script>
+
+
+if (window.confirm('You must log in to comment. Click "ok" to login'))
+{
+window.location.href='https://tetr.io';
+};
+
+</script>
