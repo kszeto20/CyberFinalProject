@@ -1,8 +1,15 @@
-Level One:
+Talk about Reflection!
 
-Cause an alert
+Level One: Cause an alert
 
-Enter into search box/comment box in case of the NYCDOEBlock
+------ show examples of reflection (search bar and agenda)
+Enter into search box - show NYCDOEBlock
+Enter into agenda comment box - show reflection
+
+So now we know that messages are being taken in and being redistribute
+The <script> HTML element is used to embed executable code or data.
+<a>
+
 Answer: <script>alert("Hacked by Kirsten and Lillian")</script>
 
 "alert()" - can only display text
