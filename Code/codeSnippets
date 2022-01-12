@@ -8,7 +8,6 @@ Enter into agenda comment box - show reflection
 
 So now we know that messages are being taken in and being redistribute
 The <script> HTML element is used to embed executable code or data.
-<a>
 
 Answer: <script>alert("Hacked by Kirsten and Lillian")</script>
 
@@ -19,7 +18,6 @@ Display a link
 
 Display a link on your alert:
 
-Enter into search box/comment box in case of the NYCDOEBlock
 Answer:
 
 <script>
