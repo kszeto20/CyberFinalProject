@@ -25,7 +25,7 @@ if (window.confirm('You must log in to comment. Click "ok" to login'))
 {window.location.href='https://cnn.com';};
 </script>
 
-(load to the wixsite?)
+(load to the wixsite)
 
 Level Three:
 Get a cookie

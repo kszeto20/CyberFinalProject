@@ -75,7 +75,26 @@ Worked on code snippets
 Working on code snippets; formulating levels and lesson concept; will work on javascript tutorial next
 
 12/22/2021
+
 worked on code demo
 
 01/03/2022
+
 Working on code demo + adding on + explanations
+
+01/04/2022
+
+Worked on Levels for the demo + planned extra challenge
+
+01/08-09/2022
+
+relearned and researched java commands + worked on dummy site for demo.
+Also practiced presentations with Lillian on Zoom.
+
+01/10/2022
+
+Finalized lesson
+
+01/11/2022
+
+Removed extraneous statements from lesson + updated README.md
