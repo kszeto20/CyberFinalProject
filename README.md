@@ -53,6 +53,19 @@ Worked on introduction and explaining the relevant code examples for Javascript 
 1/03/2022
 
 Updated daily log with missing progress, working on expanding explanations from 12/19 of exploits we're using.
+
+1/04/2022
+
+Finalized presentation, added to the guide with the specific methods we're using.
+
+1/08/2022-1/09/2022
+
+Did presentation run-throughs with Kirsten
+
+1/11/2022
+
+Last guide and presentation updates, last updates to readme. Finalized lesson flow.
+
 ### Kirsten Szeto
 
 12/14/2021
